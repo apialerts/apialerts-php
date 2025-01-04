@@ -1,0 +1,16 @@
+{
+  "name": "apialerts/apialerts-php",
+  "description": "A client library for API Alerts",
+  "version": "0.0.1",
+  "type": "library",
+  "require": {
+    "php": ">=7.4",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "APIAlerts\\": "src/"
+    }
+  }
+}

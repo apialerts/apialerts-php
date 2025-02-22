@@ -1,10 +1,7 @@
-# apialerts-php
+# API Alerts • PHP Client
 
-PHP client for the [apialerts.com](https://apialerts.com/) platform
-
-[Docs](https://apialerts.com/docs/php) • [GitHub](https://github.com/apialerts/apialerts-php)
-
+[GitHub Repo](https://github.com/apialerts/apialerts-php)
 
 ## Coming Soon
 
-In development, beta expected end of Jan 2025.
+In development, beta expected in March 2025.
